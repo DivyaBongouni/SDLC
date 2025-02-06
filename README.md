@@ -2,8 +2,6 @@
 
 # Agile & Scrum
 
-# Agile & Scrum
-
 ## Table of Contents
 - [Agile](#agile)
   - [What is Agile?](#what-is-agile)
