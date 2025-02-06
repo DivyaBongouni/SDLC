@@ -95,5 +95,5 @@ A session to identify ways to improve quality. The team discusses what worked we
 
 ---
 
-This README provides a structured overview of Agile and Scrum methodologies for quick reference.
+This README provides a structured overview of Agile and Scrum methodologies.
 
